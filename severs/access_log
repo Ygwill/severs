@@ -1,0 +1,836 @@
+::1 - - [14/Sep/2022:18:17:49 +0800] "GET / HTTP/1.1" 200 465
+::1 - - [14/Sep/2022:18:17:52 +0800] "GET /favicon.ico HTTP/1.1" 404 209
+::1 - - [14/Sep/2022:18:17:59 +0800] "GET /ssl.pem HTTP/1.1" 200 3294
+::1 - - [14/Sep/2022:18:18:04 +0800] "GET /access_log HTTP/1.1" 200 205
+::1 - - [14/Sep/2022:18:18:12 +0800] "GET /Do/ HTTP/1.1" 200 646
+::1 - - [14/Sep/2022:18:18:17 +0800] "GET /Do/index.html HTTP/1.1" 200 1811
+::1 - - [14/Sep/2022:18:19:08 +0800] "-" 408 -
+2022-10-01 14:28:23: (log.c.164) server started 
+2022-10-01 16:55:02: (log.c.164) server started 
+2022-10-01 17:47:57: (log.c.164) server started 
+2022-10-01 17:54:51: (log.c.164) server started 
+2022-10-01 17:56:05: (log.c.164) server started 
+2022-10-01 17:56:07: (log.c.164) server started 
+2022-10-01 17:56:10: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 17:56:11: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 17:56:11: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 17:56:11: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 17:56:12: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 17:56:12: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 17:56:12: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 17:56:12: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 17:56:13: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 17:56:13: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 17:56:13: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 17:56:13: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 17:56:13: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 17:56:13: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 17:56:13: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 17:56:13: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 17:56:14: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 17:56:14: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 17:56:14: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 17:56:14: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 17:56:14: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 17:56:14: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 17:56:14: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 17:56:14: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 17:59:47: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 17:59:47: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 17:59:47: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 17:59:47: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 17:59:47: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 17:59:47: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 17:59:47: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 17:59:47: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 17:59:49: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 17:59:50: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 17:59:50: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 17:59:50: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 17:59:50: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 17:59:50: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 17:59:50: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 17:59:50: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 17:59:50: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 17:59:50: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 17:59:50: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 17:59:50: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 17:59:50: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 17:59:50: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 17:59:55: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 17:59:55: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 17:59:55: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 17:59:55: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 17:59:55: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 17:59:56: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 18:00:26: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 18:00:26: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 18:00:26: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 18:00:26: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 18:00:26: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 18:00:26: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 18:00:26: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 18:00:26: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 18:04:28: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-01 18:04:28: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 18:04:28: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-01 18:04:28: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 18:04:31: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-01 18:04:31: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 18:04:32: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-01 18:04:32: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 18:04:32: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-01 18:04:32: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 18:04:37: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-01 18:04:37: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 18:04:37: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-01 18:04:37: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 18:04:37: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-01 18:04:37: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 18:04:41: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 18:04:41: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 18:04:41: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 18:04:41: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 18:04:42: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 18:04:42: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 18:04:42: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 18:04:42: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 18:04:43: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 18:04:43: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 18:04:43: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 18:04:43: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 18:04:43: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 18:04:43: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 18:04:48: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 18:04:48: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 18:08:01: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 18:08:01: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 18:08:01: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 18:08:01: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 18:08:01: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 18:08:01: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 18:08:02: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 18:08:02: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 18:08:02: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 18:08:02: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 18:08:02: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 18:08:02: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 18:08:08: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 18:08:08: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 18:08:08: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 18:08:08: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 18:08:08: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 18:08:08: (connections.c.305) SSL: 1 error:1408A0C1:SSL routines:ssl3_get_client_hello:no shared cipher 
+2022-10-01 18:08:35: (log.c.164) server started 
+2022-10-01 18:08:44: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-01 18:08:44: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 18:08:44: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-01 18:08:44: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 18:08:44: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 18:08:44: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 18:18:45: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-01 18:18:45: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 18:18:45: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-01 18:18:45: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 18:18:46: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-01 18:18:46: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 18:18:49: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-01 18:18:49: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 18:18:50: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-01 18:18:50: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 18:18:50: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-01 18:18:50: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 18:19:04: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-01 18:19:04: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 18:19:04: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-01 18:19:04: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 18:19:04: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-01 18:19:04: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 18:19:05: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-01 18:19:05: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 18:19:05: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-01 18:19:05: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 18:19:05: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-01 18:19:05: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 18:20:03: (log.c.164) server started 
+2022-10-01 18:20:19: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-01 18:20:19: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 18:20:19: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-01 18:20:19: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 18:20:19: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-01 18:20:19: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 18:20:22: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-01 18:20:22: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 18:20:22: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-01 18:20:22: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 18:20:22: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-01 18:20:22: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 19:25:02: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 19:25:02: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 19:25:02: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-01 19:25:02: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 20:55:06: (log.c.164) server started 
+2022-10-01 21:43:34: (log.c.164) server started 
+2022-10-01 21:45:35: (log.c.164) server started 
+2022-10-01 22:38:32: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:38:32: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:38:39: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:38:39: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:38:39: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:39:33: (log.c.164) server started 
+2022-10-01 22:39:37: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:39:37: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:39:42: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:39:42: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:39:42: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:41:29: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:41:30: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:41:30: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:41:35: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:41:35: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:41:35: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:41:50: (log.c.164) server started 
+2022-10-01 22:41:55: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:41:55: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:42:00: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:42:00: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:42:00: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:43:09: (log.c.164) server started 
+2022-10-01 22:43:14: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:43:14: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:43:14: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:43:17: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:43:17: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:43:17: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:43:56: (log.c.164) server started 
+2022-10-01 22:44:15: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:44:15: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:44:15: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:44:15: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:44:40: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:44:40: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:44:40: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:44:40: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:45:03: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-01 22:45:03: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:45:03: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-01 22:45:03: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:45:06: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-01 22:45:06: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:45:06: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-01 22:45:06: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:45:08: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:45:08: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:45:08: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:45:13: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-01 22:45:13: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:45:14: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-01 22:45:14: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:45:17: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-01 22:45:17: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:45:17: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-01 22:45:17: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:45:22: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-01 22:45:22: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:45:22: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-01 22:45:22: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:45:22: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-01 22:45:22: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:45:22: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-01 22:45:22: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:46:11: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-01 22:46:11: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:46:11: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-01 22:46:11: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:46:11: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-01 22:46:11: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:46:12: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-01 22:46:12: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:46:12: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-01 22:46:12: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:46:23: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:47:52: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:47:52: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:47:52: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:48:03: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:48:03: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:48:04: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:48:04: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:48:16: (log.c.164) server started 
+2022-10-01 22:48:20: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:48:20: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:48:37: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:48:38: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:48:38: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:49:40: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:49:40: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:49:40: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:49:40: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:49:42: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:50:08: (log.c.164) server started 
+2022-10-01 22:50:42: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:50:42: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:50:42: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:51:12: (log.c.164) server started 
+2022-10-01 22:51:17: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:51:17: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:51:17: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:51:20: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:51:21: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:51:21: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:51:43: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:51:43: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:51:43: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:51:46: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:51:48: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:52:22: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:52:22: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:52:22: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:52:22: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:54:01: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:54:01: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:54:01: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:54:01: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:54:03: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:54:04: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:54:06: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:54:42: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:54:42: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:54:42: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:54:42: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:54:55: (log.c.164) server started 
+2022-10-01 22:54:58: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:54:58: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:55:02: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:55:02: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:55:02: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:55:40: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:55:40: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:55:40: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-01 22:55:45: (log.c.164) server started 
+2022-10-02 08:43:58: (log.c.164) server started 
+2022-10-02 11:06:05: (log.c.164) server started 
+2022-10-02 18:11:09: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-02 18:11:09: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-02 18:11:20: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-02 18:11:27: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-02 18:11:27: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-02 18:11:27: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-02 18:11:32: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-02 18:11:33: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-02 18:11:33: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-02 18:11:33: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-02 18:11:39: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-02 20:27:46: (log.c.164) server started 
+2022-10-02 20:30:49: (log.c.164) server started 
+2022-10-02 20:34:10: (log.c.164) server started 
+2022-10-02 20:34:42: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-02 20:34:42: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-02 20:35:38: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-02 20:35:38: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-02 20:35:42: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-02 20:35:42: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-02 20:35:42: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-02 20:36:53: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-02 20:36:53: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-02 20:36:53: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-02 20:36:53: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-02 20:38:01: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-02 20:38:13: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-02 20:38:13: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-02 20:38:14: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-02 20:38:14: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-02 20:38:14: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-02 20:51:39: (log.c.164) server started 
+2022-10-03 09:08:05: (log.c.164) server started 
+2022-10-03 14:55:26: (log.c.164) server started 
+2022-10-03 14:56:34: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-03 15:06:08: (log.c.164) server started 
+2022-10-03 15:06:49: (log.c.164) server started 
+2022-10-03 15:50:05: (log.c.164) server started 
+2022-10-03 15:54:26: (log.c.164) server started 
+2022-10-03 15:54:29: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-03 15:54:29: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-03 15:54:30: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-03 15:54:30: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-03 15:54:46: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-03 15:55:33: (log.c.164) server started 
+2022-10-03 15:55:35: (log.c.164) server started 
+2022-10-03 15:55:51: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-03 15:55:52: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-03 15:55:52: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-03 15:55:55: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-03 15:55:55: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-03 15:55:55: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-03 15:57:06: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-03 15:57:06: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-03 15:57:06: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-03 15:57:22: (log.c.164) server started 
+2022-10-03 15:59:00: (log.c.164) server started 
+2022-10-03 16:00:09: (log.c.164) server started 
+2022-10-03 16:13:50: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-03 16:13:50: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-03 16:14:51: (log.c.164) server started 
+2022-10-03 16:14:58: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-03 16:14:58: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-03 16:16:41: (log.c.164) server started 
+2022-10-03 16:18:50: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-03 16:18:50: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-03 16:34:20: (log.c.164) server started 
+2022-10-03 16:37:37: (log.c.164) server started 
+2022-10-03 16:37:48: (log.c.164) server started 
+2022-10-03 16:40:13: (log.c.164) server started 
+2022-10-03 16:57:14: (log.c.164) server started 
+2022-10-03 16:59:22: (log.c.164) server started 
+2022-10-03 16:59:34: (log.c.164) server started 
+2022-10-03 17:08:48: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-03 17:08:48: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-03 17:52:19: (log.c.164) server started 
+2022-10-03 18:30:50: (log.c.164) server started 
+2022-10-04 12:53:36: (log.c.164) server started 
+2022-10-04 13:32:30: (log.c.164) server started 
+2022-10-05 14:35:03: (log.c.164) server started 
+2022-10-05 15:07:31: (log.c.164) server started 
+2022-10-05 15:15:45: (log.c.164) server started 
+2022-10-05 17:20:35: (log.c.164) server started 
+2022-10-05 17:36:18: (log.c.164) server started 
+2022-10-05 17:43:32: (log.c.164) server started 
+2022-10-05 17:47:10: (log.c.164) server started 
+2022-10-05 17:59:58: (log.c.164) server started 
+2022-10-05 18:00:05: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:00:05: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:00:10: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:00:10: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:11:34: (log.c.164) server started 
+2022-10-05 18:11:36: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:11:36: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:11:58: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:11:58: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:11:58: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:11:58: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:12:00: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:12:21: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:12:21: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:12:25: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:12:25: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:12:25: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:12:53: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:12:56: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:12:57: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:12:58: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:13:55: (log.c.164) server started 
+2022-10-05 18:14:16: (log.c.164) server started 
+2022-10-05 18:15:26: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-05 18:15:26: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:15:26: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-05 18:15:26: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:15:26: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-05 18:15:26: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:15:28: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-05 18:15:28: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:15:29: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-05 18:15:29: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:15:29: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-05 18:15:29: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:15:40: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-05 18:15:40: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:15:41: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-05 18:15:41: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:15:41: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-05 18:15:41: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:15:45: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-05 18:15:45: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:15:45: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-05 18:15:45: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:15:45: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-05 18:15:45: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:16:10: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:16:10: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:17:38: (log.c.164) server started 
+2022-10-05 18:18:51: (log.c.164) server started 
+2022-10-05 18:18:56: (log.c.164) server started 
+2022-10-05 18:19:26: (log.c.164) server started 
+2022-10-05 18:19:42: (log.c.164) server started 
+2022-10-05 18:22:04: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:22:15: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:30:54: (log.c.164) server started 
+2022-10-05 18:31:17: (log.c.164) server started 
+2022-10-05 18:31:21: (log.c.164) server started 
+2022-10-05 18:31:35: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:31:35: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:31:37: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:31:37: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:31:41: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:31:44: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:31:46: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:32:43: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:32:43: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:32:43: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:32:43: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:32:44: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:32:46: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:32:49: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:32:52: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:32:55: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:33:12: (log.c.164) server started 
+2022-10-05 18:33:17: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:33:17: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:34:20: (log.c.164) server started 
+2022-10-05 18:34:25: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:34:25: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:34:25: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:34:26: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:34:26: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:34:51: (log.c.164) server started 
+2022-10-05 18:34:54: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:34:54: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:35:07: (log.c.164) server started 
+2022-10-05 18:35:11: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:35:11: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:35:31: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:35:31: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:35:31: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:35:38: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:37:06: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:37:06: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:37:06: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:37:06: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:37:12: (log.c.164) server started 
+2022-10-05 18:37:16: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:37:16: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:37:27: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-05 18:54:10: (log.c.164) server started 
+2022-10-05 19:44:13: (log.c.164) server started 
+2022-10-06 17:55:25: (log.c.164) server started 
+2022-10-06 17:59:01: (log.c.164) server started 
+2022-10-06 18:20:46: (log.c.164) server started 
+2022-10-06 18:21:04: (log.c.164) server started 
+2022-10-06 19:05:55: (log.c.164) server started 
+2022-10-06 19:06:16: (http_auth.c.887) password doesn't match for / username: admin, IP: 127.0.0.1 
+2022-10-06 19:06:22: (http_auth.c.887) password doesn't match for / username: admin, IP: 127.0.0.1 
+2022-10-06 19:34:34: (log.c.164) server started 
+2022-10-06 19:40:44: (log.c.164) server started 
+2022-10-06 19:55:43: (log.c.164) server started 
+2022-10-06 19:56:55: (log.c.164) server started 
+2022-10-06 19:56:58: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 19:56:59: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 19:57:03: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 19:57:03: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 19:57:04: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 19:57:04: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 19:57:09: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 19:58:45: (log.c.164) server started 
+2022-10-06 19:58:46: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 19:58:46: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 19:58:46: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 19:58:46: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 19:58:51: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 19:59:12: (log.c.164) server started 
+2022-10-06 19:59:19: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 19:59:19: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 19:59:19: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 19:59:24: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 19:59:59: (log.c.164) server started 
+2022-10-06 20:00:02: (log.c.164) server started 
+2022-10-06 20:00:05: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:00:05: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:00:05: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:00:11: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:00:13: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:00:15: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:01:39: (log.c.164) server started 
+2022-10-06 20:01:45: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:01:45: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:01:50: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:01:51: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:01:54: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:01:56: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:01:58: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:02:04: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:03:06: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:03:06: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:03:06: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:03:40: (log.c.164) server started 
+2022-10-06 20:03:51: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:03:51: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:03:51: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:03:52: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:03:52: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:03:53: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:03:53: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:03:58: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:05:39: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:05:39: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:05:39: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:05:39: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:05:40: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:05:40: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:05:40: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:05:40: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:05:40: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:05:40: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:05:44: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:06:37: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:06:37: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:06:37: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:06:37: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:06:38: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:06:38: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:06:38: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:06:38: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:06:38: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:06:38: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:06:42: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:06:44: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:07:09: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:07:10: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:07:10: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:07:11: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:07:12: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:07:12: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:07:17: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:07:53: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:07:53: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:07:53: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:07:53: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:07:56: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:07:56: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:07:56: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:07:56: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:07:56: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:08:01: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:10:02: (log.c.164) server started 
+2022-10-06 20:10:04: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:10:04: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:10:04: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:10:23: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:10:23: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:10:23: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:10:23: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:10:32: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:11:58: (log.c.164) server started 
+2022-10-06 20:12:09: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:12:09: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:12:09: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:13:01: (log.c.164) server started 
+2022-10-06 20:13:10: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:13:10: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:13:10: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:13:35: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:13:35: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:13:35: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:13:35: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:13:40: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:18:09: (log.c.164) server started 
+2022-10-06 20:18:18: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:18:18: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:18:18: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:18:19: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:18:19: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:18:19: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:18:19: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:18:23: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:18:32: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:18:34: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:18:35: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:18:48: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:18:49: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:18:49: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:18:51: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:18:51: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:18:51: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:18:52: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:18:54: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:19:48: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:19:48: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:19:48: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:19:49: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:19:49: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:19:54: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:37:59: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:37:59: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:38:01: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:38:01: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:38:01: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:38:01: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:38:02: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:38:02: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:38:07: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:38:50: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:38:50: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:38:50: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:38:50: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:38:51: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:38:51: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:38:52: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:38:52: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:38:55: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:41:08: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:41:12: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:41:17: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:41:25: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-06 20:41:25: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:41:25: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-06 20:41:25: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:41:25: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:41:26: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-06 20:41:26: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:41:27: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-06 20:41:27: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:41:28: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-06 20:41:28: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:41:28: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-06 20:41:28: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:41:28: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:41:28: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-06 20:41:28: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:41:39: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-06 20:41:39: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:41:39: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-06 20:41:39: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:41:39: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:41:44: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-06 20:41:44: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:41:44: (connections.c.305) SSL: 1 error:1407609C:SSL routines:SSL23_GET_CLIENT_HELLO:http request 
+2022-10-06 20:41:44: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:41:44: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:41:45: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:41:45: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:41:45: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:41:48: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:41:48: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:41:48: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:41:48: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:41:49: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:41:51: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:41:55: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:41:55: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-06 20:51:55: (log.c.164) server started 
+2022-10-06 20:51:57: (log.c.164) server started 
+2022-10-07 18:28:00: (log.c.164) server started 
+2022-10-07 18:28:18: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 18:28:18: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 18:28:20: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 18:28:20: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 18:28:20: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 18:28:27: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 18:29:38: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 18:29:38: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 18:29:38: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 18:29:38: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 18:29:39: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 18:29:39: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 18:29:43: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 18:31:30: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 18:31:30: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 18:33:19: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 18:33:19: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 18:33:35: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 18:33:35: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 18:33:36: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 18:33:36: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 18:33:36: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 18:33:36: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 18:33:36: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 18:33:36: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 18:33:39: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 18:39:34: (log.c.164) server started 
+2022-10-07 18:39:36: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 19:18:00: (log.c.164) server started 
+2022-10-07 21:49:10: (log.c.164) server started 
+2022-10-07 21:49:55: (log.c.164) server started 
+2022-10-07 21:50:11: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 21:50:11: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 21:50:26: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 21:50:26: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 21:50:26: (mod_fastcgi.c.2695) FastCGI-stderr: PHP Warning:  file_put_contents(users/users.php): failed to open stream: Permission denied in /storage/0158-1600/家庭网盘/1/vfm-admin/login.php on line 86
+2022-10-07 21:50:26: (mod_fastcgi.c.2695) FastCGI-stderr: PHP Warning:  file_put_contents(config.php): failed to open stream: Permission denied in /storage/0158-1600/家庭网盘/1/vfm-admin/login.php on line 99
+2022-10-07 21:50:30: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 21:50:30: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 21:50:30: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 21:50:31: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 21:50:56: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 21:50:56: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 21:50:57: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 21:50:57: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 21:50:57: (mod_fastcgi.c.2695) FastCGI-stderr: PHP Warning:  file_put_contents(users/users.php): failed to open stream: Permission denied in /storage/0158-1600/家庭网盘/1/vfm-admin/login.php on line 86
+2022-10-07 21:50:57: (mod_fastcgi.c.2695) FastCGI-stderr: PHP Warning:  file_put_contents(config.php): failed to open stream: Permission denied in /storage/0158-1600/家庭网盘/1/vfm-admin/login.php on line 99
+2022-10-07 21:50:57: (mod_fastcgi.c.2695) FastCGI-stderr: PHP Warning:  file_put_contents(users/users.php): failed to open stream: Permission denied in /storage/0158-1600/家庭网盘/1/vfm-admin/login.php on line 86
+2022-10-07 21:50:57: (mod_fastcgi.c.2695) FastCGI-stderr: PHP Warning:  file_put_contents(config.php): failed to open stream: Permission denied in /storage/0158-1600/家庭网盘/1/vfm-admin/login.php on line 99
+2022-10-07 21:51:01: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 21:51:01: (mod_fastcgi.c.2695) FastCGI-stderr: PHP Warning:  file_put_contents(users/users.php): failed to open stream: Permission denied in /storage/0158-1600/家庭网盘/1/vfm-admin/login.php on line 86
+2022-10-07 21:51:01: (mod_fastcgi.c.2695) FastCGI-stderr: PHP Warning:  file_put_contents(config.php): failed to open stream: Permission denied in /storage/0158-1600/家庭网盘/1/vfm-admin/login.php on line 99
+2022-10-07 21:52:21: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 21:52:21: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 21:52:21: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 21:52:21: (mod_fastcgi.c.2695) FastCGI-stderr: PHP Warning:  file_put_contents(users/users.php): failed to open stream: Permission denied in /storage/0158-1600/家庭网盘/1/vfm-admin/login.php on line 86
+2022-10-07 21:52:21: (mod_fastcgi.c.2695) FastCGI-stderr: PHP Warning:  file_put_contents(config.php): failed to open stream: Permission denied in /storage/0158-1600/家庭网盘/1/vfm-admin/login.php on line 99
+2022-10-07 21:52:21: (mod_fastcgi.c.2695) FastCGI-stderr: PHP Warning:  file_put_contents(users/users.php): failed to open stream: Permission denied in /storage/0158-1600/家庭网盘/1/vfm-admin/login.php on line 86
+2022-10-07 21:52:21: (mod_fastcgi.c.2695) FastCGI-stderr: PHP Warning:  file_put_contents(config.php): failed to open stream: Permission denied in /storage/0158-1600/家庭网盘/1/vfm-admin/login.php on line 99
+2022-10-07 21:52:21: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 21:52:21: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 21:52:21: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 21:52:21: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 21:52:22: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 21:52:27: (mod_fastcgi.c.2695) FastCGI-stderr: PHP Warning:  file_put_contents(users/users.php): failed to open stream: Permission denied in /storage/0158-1600/家庭网盘/1/vfm-admin/login.php on line 86
+2022-10-07 21:52:27: (mod_fastcgi.c.2695) FastCGI-stderr: PHP Warning:  file_put_contents(config.php): failed to open stream: Permission denied in /storage/0158-1600/家庭网盘/1/vfm-admin/login.php on line 99
+2022-10-07 21:52:42: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 21:52:42: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 21:52:42: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 21:52:42: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 21:52:42: (mod_fastcgi.c.2695) FastCGI-stderr: PHP Warning:  file_put_contents(users/users.php): failed to open stream: Permission denied in /storage/0158-1600/家庭网盘/1/vfm-admin/login.php on line 86
+2022-10-07 21:52:42: (mod_fastcgi.c.2695) FastCGI-stderr: PHP Warning:  file_put_contents(config.php): failed to open stream: Permission denied in /storage/0158-1600/家庭网盘/1/vfm-admin/login.php on line 99
+2022-10-07 21:52:45: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 21:52:45: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 21:52:45: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 21:52:45: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 21:55:04: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 21:55:04: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 21:55:04: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 21:55:04: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 21:55:04: (mod_fastcgi.c.2695) FastCGI-stderr: PHP Warning:  file_put_contents(users/users.php): failed to open stream: Permission denied in /storage/0158-1600/家庭网盘/1/vfm-admin/login.php on line 86
+2022-10-07 21:55:04: (mod_fastcgi.c.2695) FastCGI-stderr: PHP Warning:  file_put_contents(config.php): failed to open stream: Permission denied in /storage/0158-1600/家庭网盘/1/vfm-admin/login.php on line 99
+2022-10-07 21:55:04: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 21:55:04: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 21:55:04: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 21:55:05: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 21:55:05: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 21:55:05: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 21:55:11: (mod_fastcgi.c.2695) FastCGI-stderr: PHP Warning:  file_put_contents(users/users.php): failed to open stream: Permission denied in /storage/0158-1600/家庭网盘/1/vfm-admin/login.php on line 86
+2022-10-07 21:55:11: (mod_fastcgi.c.2695) FastCGI-stderr: PHP Warning:  file_put_contents(config.php): failed to open stream: Permission denied in /storage/0158-1600/家庭网盘/1/vfm-admin/login.php on line 99
+2022-10-07 21:57:06: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 21:57:06: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 21:57:06: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 21:57:06: (mod_fastcgi.c.2695) FastCGI-stderr: PHP Warning:  file_put_contents(users/users.php): failed to open stream: Permission denied in /storage/0158-1600/家庭网盘/1/vfm-admin/login.php on line 86
+2022-10-07 21:57:06: (mod_fastcgi.c.2695) FastCGI-stderr: PHP Warning:  file_put_contents(config.php): failed to open stream: Permission denied in /storage/0158-1600/家庭网盘/1/vfm-admin/login.php on line 99
+2022-10-07 21:57:06: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 21:57:06: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 21:57:06: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 21:57:06: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 21:57:06: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 21:57:18: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 21:57:18: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 21:57:18: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 21:57:18: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 21:57:18: (mod_fastcgi.c.2695) FastCGI-stderr: PHP Warning:  file_put_contents(users/users.php): failed to open stream: Permission denied in /storage/0158-1600/家庭网盘/1/vfm-admin/login.php on line 86
+2022-10-07 21:57:18: (mod_fastcgi.c.2695) FastCGI-stderr: PHP Warning:  file_put_contents(config.php): failed to open stream: Permission denied in /storage/0158-1600/家庭网盘/1/vfm-admin/login.php on line 99
+2022-10-07 21:57:18: (mod_fastcgi.c.2695) FastCGI-stderr: PHP Warning:  file_put_contents(users/users.php): failed to open stream: Permission denied in /storage/0158-1600/家庭网盘/1/vfm-admin/login.php on line 86
+2022-10-07 21:57:18: (mod_fastcgi.c.2695) FastCGI-stderr: PHP Warning:  file_put_contents(config.php): failed to open stream: Permission denied in /storage/0158-1600/家庭网盘/1/vfm-admin/login.php on line 99
+2022-10-07 22:03:53: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 22:03:53: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 22:03:53: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 22:03:53: (mod_fastcgi.c.2695) FastCGI-stderr: PHP Warning:  file_put_contents(users/users.php): failed to open stream: Permission denied in /storage/0158-1600/家庭网盘/1/vfm-admin/login.php on line 86
+2022-10-07 22:03:53: (mod_fastcgi.c.2695) FastCGI-stderr: PHP Warning:  file_put_contents(config.php): failed to open stream: Permission denied in /storage/0158-1600/家庭网盘/1/vfm-admin/login.php on line 99
+2022-10-07 22:03:55: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 22:03:55: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 22:03:55: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 22:03:55: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 22:03:55: (connections.c.1702) SSL: 1 -1 error:140E0197:SSL routines:SSL_shutdown:shutdown while in init 
+2022-10-07 22:31:38: (log.c.164) server started 
+2022-10-07 22:32:48: (log.c.164) server started 
+2022-10-07 22:33:13: (log.c.164) server started 
+2022-10-07 22:33:20: (log.c.164) server started 
+2022-10-07 22:33:46: (log.c.164) server started 
+2022-10-07 22:34:22: (log.c.164) server started 
+::1 - - [07/Oct/2022:22:39:34 +0800] "GET / HTTP/1.1" 200 691
+::1 - - [07/Oct/2022:22:40:22 +0800] "GET / HTTP/1.1" 200 691
